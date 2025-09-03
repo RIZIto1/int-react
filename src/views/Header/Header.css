@@ -1,16 +1,19 @@
 .header{
-   background: linear-gradient(to top,black,rgb(106, 106, 240));
+   /* background: linear-gradient(to top,black,rgb(240, 106, 218)); */
+   background: linear-gradient(to bottom , #460322, #7a0934 ,#9f2654 );
     color: white;
     padding: 1em 0;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     position: relative;
     width: 1000px;
     height: 40vh;
+    border-radius: 16px;
 }
 
 
 .Logo{
     font-size: 3em;
+    margin: 10px;
 }
 
 .icono{
@@ -36,7 +39,7 @@
 }
 .buscador input[type="text"]{
     height: 2em;
-    width: 15em;
+    width: 20em;
     border: none;
     border-radius: 0.5em;
     padding: 0 0.5em;

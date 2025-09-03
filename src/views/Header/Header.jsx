@@ -7,7 +7,7 @@ const Header = () => {
     <div className="header">
     <section className="navegacion">
     <Logo></Logo>
-    <PerfilUsuario usuario="Cristian"></PerfilUsuario>
+    <PerfilUsuario usuario="RIZIto1"></PerfilUsuario>
     </section>
     <Buscador></Buscador>
     </div>
